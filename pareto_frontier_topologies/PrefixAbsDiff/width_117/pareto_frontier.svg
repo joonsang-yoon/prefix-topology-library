@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" font-family="sans-serif">
+  <rect width="720" height="480" fill="white"/>
+  <line x1="96" y1="412" x2="680" y2="412" stroke="#111111" stroke-width="1.5"/>
+  <line x1="96" y1="56" x2="96" y2="412" stroke="#111111" stroke-width="1.5"/>
+  <line x1="96" y1="412" x2="96" y2="418" stroke="#111111" stroke-width="1"/>
+  <text x="96" y="436" text-anchor="middle" font-size="12" fill="#333333">1720.3816</text>
+  <line x1="213" y1="412" x2="213" y2="418" stroke="#111111" stroke-width="1"/>
+  <text x="213" y="436" text-anchor="middle" font-size="12" fill="#333333">1756.60016</text>
+  <line x1="330" y1="412" x2="330" y2="418" stroke="#111111" stroke-width="1"/>
+  <text x="330" y="436" text-anchor="middle" font-size="12" fill="#333333">1792.81872</text>
+  <line x1="446" y1="412" x2="446" y2="418" stroke="#111111" stroke-width="1"/>
+  <text x="446" y="436" text-anchor="middle" font-size="12" fill="#333333">1829.03728</text>
+  <line x1="563" y1="412" x2="563" y2="418" stroke="#111111" stroke-width="1"/>
+  <text x="563" y="436" text-anchor="middle" font-size="12" fill="#333333">1865.25584</text>
+  <line x1="680" y1="412" x2="680" y2="418" stroke="#111111" stroke-width="1"/>
+  <text x="680" y="436" text-anchor="middle" font-size="12" fill="#333333">1901.4744</text>
+  <line x1="90" y1="412" x2="96" y2="412" stroke="#111111" stroke-width="1"/>
+  <text x="86" y="416" text-anchor="end" font-size="12" fill="#333333">3.438271</text>
+  <line x1="90" y1="341" x2="96" y2="341" stroke="#111111" stroke-width="1"/>
+  <text x="86" y="345" text-anchor="end" font-size="12" fill="#333333">3.510655</text>
+  <line x1="90" y1="270" x2="96" y2="270" stroke="#111111" stroke-width="1"/>
+  <text x="86" y="274" text-anchor="end" font-size="12" fill="#333333">3.58304</text>
+  <line x1="90" y1="198" x2="96" y2="198" stroke="#111111" stroke-width="1"/>
+  <text x="86" y="202" text-anchor="end" font-size="12" fill="#333333">3.655424</text>
+  <line x1="90" y1="127" x2="96" y2="127" stroke="#111111" stroke-width="1"/>
+  <text x="86" y="131" text-anchor="end" font-size="12" fill="#333333">3.727809</text>
+  <line x1="90" y1="56" x2="96" y2="56" stroke="#111111" stroke-width="1"/>
+  <text x="86" y="60" text-anchor="end" font-size="12" fill="#333333">3.800194</text>
+  <text x="96" y="28" font-size="22" font-weight="bold" fill="#111111">Pareto frontier for width 117</text>
+  <text x="388" y="460" text-anchor="middle" font-size="14" fill="#111111">areaUm2 (minimize)</text>
+  <text x="24" y="234" text-anchor="middle" font-size="14" fill="#111111" transform="rotate(-90 24 234)">clockPeriodNs (minimize)</text>
+  <path d="M 388,234" fill="none" stroke="#b91c1c" stroke-width="3"/>
+  <circle cx="388" cy="234" r="7" fill="#b91c1c" stroke="#7f1d1d" stroke-width="1.5"/>
+  <text x="398" y="224" font-size="12" fill="#111111">area_0</text>
+</svg>

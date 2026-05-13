@@ -1,0 +1,54 @@
+package build
+
+import mill._
+import mill.scalalib._
+import mill.scalalib.TestModule.ScalaTest
+import mill.scalalib.scalafmt.ScalafmtModule
+
+object Versions {
+  val scala213 = "2.13.16"
+  val chisel = "7.5.0"
+  val osLib = "0.10.7"
+  val ujson = "3.3.1"
+  val scalaTest = "3.2.19"
+}
+
+trait CommonModule extends ScalaModule with ScalafmtModule {
+  protected def repoRoot = moduleDir / os.up
+
+  override def scalaVersion = Versions.scala213
+
+  override def scalacOptions = Seq(
+    "-deprecation",
+    "-feature",
+    "-unchecked",
+    "-language:reflectiveCalls",
+    "-Xcheckinit"
+  )
+
+  override def mvnDeps = Seq(
+    mvn"org.chipsalliance::chisel:${Versions.chisel}",
+    mvn"com.lihaoyi::os-lib:${Versions.osLib}",
+    mvn"com.lihaoyi::ujson:${Versions.ujson}"
+  )
+
+  override def scalacPluginMvnDeps = Seq(
+    mvn"org.chipsalliance:::chisel-plugin:${Versions.chisel}"
+  )
+
+  trait Tests extends ScalaTests with ScalaTest with ScalafmtModule {
+    override def scalaTestVersion = Versions.scalaTest
+  }
+}
+
+object prefixTopologyLibrary extends CommonModule {
+  override def mainClass = Some("prefix.topology.library.Main")
+
+  override def sources = Task.Sources(repoRoot / "src")
+  override def resources = Task.Sources(repoRoot / "scripts")
+
+  object test extends Tests {
+    override def moduleDeps = Seq(prefixTopologyLibrary)
+    override def sources = Task.Sources(repoRoot / "test" / "src")
+  }
+}

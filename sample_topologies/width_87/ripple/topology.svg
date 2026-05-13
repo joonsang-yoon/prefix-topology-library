@@ -1,0 +1,520 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13224" height="13224" viewBox="0 0 13224 13224" font-family="sans-serif">
+  <path d="M 76 76 Q 114 190 228 228" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 228 76 Q 190 152 228 228" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 228 228 Q 266 342 380 380" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 380 76 Q 304 228 380 380" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 380 380 Q 418 494 532 532" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 532 76 Q 418 304 532 532" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 532 532 Q 570 646 684 684" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 684 76 Q 532 380 684 684" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 684 684 Q 722 798 836 836" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 836 76 Q 646 456 836 836" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 836 836 Q 874 950 988 988" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 988 76 Q 760 532 988 988" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 988 988 Q 1026 1102 1140 1140" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1140 76 Q 874 608 1140 1140" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1140 1140 Q 1178 1254 1292 1292" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1292 76 Q 988 684 1292 1292" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1292 1292 Q 1330 1406 1444 1444" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1444 76 Q 1102 760 1444 1444" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1444 1444 Q 1482 1558 1596 1596" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1596 76 Q 1216 836 1596 1596" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1596 1596 Q 1634 1710 1748 1748" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1748 76 Q 1330 912 1748 1748" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1748 1748 Q 1786 1862 1900 1900" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1900 76 Q 1444 988 1900 1900" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 1900 1900 Q 1938 2014 2052 2052" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2052 76 Q 1558 1064 2052 2052" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2052 2052 Q 2090 2166 2204 2204" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2204 76 Q 1672 1140 2204 2204" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2204 2204 Q 2242 2318 2356 2356" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2356 76 Q 1786 1216 2356 2356" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2356 2356 Q 2394 2470 2508 2508" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2508 76 Q 1900 1292 2508 2508" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2508 2508 Q 2546 2622 2660 2660" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2660 76 Q 2014 1368 2660 2660" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2660 2660 Q 2698 2774 2812 2812" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2812 76 Q 2128 1444 2812 2812" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2812 2812 Q 2850 2926 2964 2964" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2964 76 Q 2242 1520 2964 2964" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 2964 2964 Q 3002 3078 3116 3116" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3116 76 Q 2356 1596 3116 3116" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3116 3116 Q 3154 3230 3268 3268" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3268 76 Q 2470 1672 3268 3268" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3268 3268 Q 3306 3382 3420 3420" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3420 76 Q 2584 1748 3420 3420" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3420 3420 Q 3458 3534 3572 3572" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3572 76 Q 2698 1824 3572 3572" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3572 3572 Q 3610 3686 3724 3724" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3724 76 Q 2812 1900 3724 3724" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3724 3724 Q 3762 3838 3876 3876" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3876 76 Q 2926 1976 3876 3876" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 3876 3876 Q 3914 3990 4028 4028" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4028 76 Q 3040 2052 4028 4028" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4028 4028 Q 4066 4142 4180 4180" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4180 76 Q 3154 2128 4180 4180" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4180 4180 Q 4218 4294 4332 4332" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4332 76 Q 3268 2204 4332 4332" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4332 4332 Q 4370 4446 4484 4484" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4484 76 Q 3382 2280 4484 4484" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4484 4484 Q 4522 4598 4636 4636" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4636 76 Q 3496 2356 4636 4636" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4636 4636 Q 4674 4750 4788 4788" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4788 76 Q 3610 2432 4788 4788" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4788 4788 Q 4826 4902 4940 4940" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4940 76 Q 3724 2508 4940 4940" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 4940 4940 Q 4978 5054 5092 5092" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5092 76 Q 3838 2584 5092 5092" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5092 5092 Q 5130 5206 5244 5244" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5244 76 Q 3952 2660 5244 5244" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5244 5244 Q 5282 5358 5396 5396" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5396 76 Q 4066 2736 5396 5396" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5396 5396 Q 5434 5510 5548 5548" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5548 76 Q 4180 2812 5548 5548" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5548 5548 Q 5586 5662 5700 5700" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5700 76 Q 4294 2888 5700 5700" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5700 5700 Q 5738 5814 5852 5852" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5852 76 Q 4408 2964 5852 5852" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 5852 5852 Q 5890 5966 6004 6004" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6004 76 Q 4522 3040 6004 6004" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6004 6004 Q 6042 6118 6156 6156" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6156 76 Q 4636 3116 6156 6156" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6156 6156 Q 6194 6270 6308 6308" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6308 76 Q 4750 3192 6308 6308" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6308 6308 Q 6346 6422 6460 6460" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6460 76 Q 4864 3268 6460 6460" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6460 6460 Q 6498 6574 6612 6612" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6612 76 Q 4978 3344 6612 6612" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6612 6612 Q 6650 6726 6764 6764" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6764 76 Q 5092 3420 6764 6764" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6764 6764 Q 6802 6878 6916 6916" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6916 76 Q 5206 3496 6916 6916" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 6916 6916 Q 6954 7030 7068 7068" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7068 76 Q 5320 3572 7068 7068" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7068 7068 Q 7106 7182 7220 7220" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7220 76 Q 5434 3648 7220 7220" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7220 7220 Q 7258 7334 7372 7372" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7372 76 Q 5548 3724 7372 7372" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7372 7372 Q 7410 7486 7524 7524" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7524 76 Q 5662 3800 7524 7524" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7524 7524 Q 7562 7638 7676 7676" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7676 76 Q 5776 3876 7676 7676" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7676 7676 Q 7714 7790 7828 7828" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7828 76 Q 5890 3952 7828 7828" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7828 7828 Q 7866 7942 7980 7980" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7980 76 Q 6004 4028 7980 7980" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 7980 7980 Q 8018 8094 8132 8132" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8132 76 Q 6118 4104 8132 8132" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8132 8132 Q 8170 8246 8284 8284" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8284 76 Q 6232 4180 8284 8284" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8284 8284 Q 8322 8398 8436 8436" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8436 76 Q 6346 4256 8436 8436" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8436 8436 Q 8474 8550 8588 8588" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8588 76 Q 6460 4332 8588 8588" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8588 8588 Q 8626 8702 8740 8740" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8740 76 Q 6574 4408 8740 8740" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8740 8740 Q 8778 8854 8892 8892" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8892 76 Q 6688 4484 8892 8892" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 8892 8892 Q 8930 9006 9044 9044" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9044 76 Q 6802 4560 9044 9044" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9044 9044 Q 9082 9158 9196 9196" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9196 76 Q 6916 4636 9196 9196" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9196 9196 Q 9234 9310 9348 9348" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9348 76 Q 7030 4712 9348 9348" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9348 9348 Q 9386 9462 9500 9500" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9500 76 Q 7144 4788 9500 9500" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9500 9500 Q 9538 9614 9652 9652" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9652 76 Q 7258 4864 9652 9652" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9652 9652 Q 9690 9766 9804 9804" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9804 76 Q 7372 4940 9804 9804" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9804 9804 Q 9842 9918 9956 9956" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9956 76 Q 7486 5016 9956 9956" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 9956 9956 Q 9994 10070 10108 10108" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10108 76 Q 7600 5092 10108 10108" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10108 10108 Q 10146 10222 10260 10260" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10260 76 Q 7714 5168 10260 10260" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10260 10260 Q 10298 10374 10412 10412" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10412 76 Q 7828 5244 10412 10412" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10412 10412 Q 10450 10526 10564 10564" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10564 76 Q 7942 5320 10564 10564" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10564 10564 Q 10602 10678 10716 10716" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10716 76 Q 8056 5396 10716 10716" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10716 10716 Q 10754 10830 10868 10868" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10868 76 Q 8170 5472 10868 10868" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 10868 10868 Q 10906 10982 11020 11020" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11020 76 Q 8284 5548 11020 11020" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11020 11020 Q 11058 11134 11172 11172" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11172 76 Q 8398 5624 11172 11172" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11172 11172 Q 11210 11286 11324 11324" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11324 76 Q 8512 5700 11324 11324" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11324 11324 Q 11362 11438 11476 11476" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11476 76 Q 8626 5776 11476 11476" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11476 11476 Q 11514 11590 11628 11628" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11628 76 Q 8740 5852 11628 11628" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11628 11628 Q 11666 11742 11780 11780" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11780 76 Q 8854 5928 11780 11780" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11780 11780 Q 11818 11894 11932 11932" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11932 76 Q 8968 6004 11932 11932" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 11932 11932 Q 11970 12046 12084 12084" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12084 76 Q 9082 6080 12084 12084" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12084 12084 Q 12122 12198 12236 12236" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12236 76 Q 9196 6156 12236 12236" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12236 12236 Q 12274 12350 12388 12388" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12388 76 Q 9310 6232 12388 12388" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12388 12388 Q 12426 12502 12540 12540" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12540 76 Q 9424 6308 12540 12540" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12540 12540 Q 12578 12654 12692 12692" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12692 76 Q 9538 6384 12692 12692" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12692 12692 Q 12730 12806 12844 12844" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12844 76 Q 9652 6460 12844 12844" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12844 12844 Q 12882 12958 12996 12996" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12996 76 Q 9766 6536 12996 12996" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 12996 12996 Q 13034 13110 13148 13148" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 13148 76 Q 9880 6612 13148 13148" fill="none" stroke="black" stroke-width="2"/>
+  <circle cx="76" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="76" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[0, 0]</text>
+  <circle cx="228" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="228" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[1, 1]</text>
+  <circle cx="380" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="380" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[2, 2]</text>
+  <circle cx="532" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="532" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[3, 3]</text>
+  <circle cx="684" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="684" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[4, 4]</text>
+  <circle cx="836" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="836" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[5, 5]</text>
+  <circle cx="988" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="988" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[6, 6]</text>
+  <circle cx="1140" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="1140" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[7, 7]</text>
+  <circle cx="1292" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="1292" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[8, 8]</text>
+  <circle cx="1444" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="1444" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[9, 9]</text>
+  <circle cx="1596" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="1596" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[10, 10]</text>
+  <circle cx="1748" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="1748" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[11, 11]</text>
+  <circle cx="1900" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="1900" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[12, 12]</text>
+  <circle cx="2052" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2052" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[13, 13]</text>
+  <circle cx="2204" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2204" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[14, 14]</text>
+  <circle cx="2356" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2356" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[15, 15]</text>
+  <circle cx="2508" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2508" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[16, 16]</text>
+  <circle cx="2660" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2660" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[17, 17]</text>
+  <circle cx="2812" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2812" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[18, 18]</text>
+  <circle cx="2964" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="2964" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[19, 19]</text>
+  <circle cx="3116" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="3116" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[20, 20]</text>
+  <circle cx="3268" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="3268" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[21, 21]</text>
+  <circle cx="3420" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="3420" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[22, 22]</text>
+  <circle cx="3572" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="3572" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[23, 23]</text>
+  <circle cx="3724" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="3724" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[24, 24]</text>
+  <circle cx="3876" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="3876" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[25, 25]</text>
+  <circle cx="4028" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4028" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[26, 26]</text>
+  <circle cx="4180" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4180" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[27, 27]</text>
+  <circle cx="4332" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4332" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[28, 28]</text>
+  <circle cx="4484" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4484" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[29, 29]</text>
+  <circle cx="4636" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4636" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[30, 30]</text>
+  <circle cx="4788" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4788" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[31, 31]</text>
+  <circle cx="4940" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="4940" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[32, 32]</text>
+  <circle cx="5092" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="5092" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[33, 33]</text>
+  <circle cx="5244" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="5244" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[34, 34]</text>
+  <circle cx="5396" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="5396" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[35, 35]</text>
+  <circle cx="5548" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="5548" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[36, 36]</text>
+  <circle cx="5700" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="5700" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[37, 37]</text>
+  <circle cx="5852" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="5852" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[38, 38]</text>
+  <circle cx="6004" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6004" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[39, 39]</text>
+  <circle cx="6156" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6156" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[40, 40]</text>
+  <circle cx="6308" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6308" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[41, 41]</text>
+  <circle cx="6460" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6460" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[42, 42]</text>
+  <circle cx="6612" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6612" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[43, 43]</text>
+  <circle cx="6764" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6764" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[44, 44]</text>
+  <circle cx="6916" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="6916" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[45, 45]</text>
+  <circle cx="7068" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7068" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[46, 46]</text>
+  <circle cx="7220" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7220" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[47, 47]</text>
+  <circle cx="7372" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7372" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[48, 48]</text>
+  <circle cx="7524" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7524" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[49, 49]</text>
+  <circle cx="7676" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7676" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[50, 50]</text>
+  <circle cx="7828" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7828" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[51, 51]</text>
+  <circle cx="7980" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="7980" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[52, 52]</text>
+  <circle cx="8132" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="8132" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[53, 53]</text>
+  <circle cx="8284" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="8284" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[54, 54]</text>
+  <circle cx="8436" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="8436" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[55, 55]</text>
+  <circle cx="8588" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="8588" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[56, 56]</text>
+  <circle cx="8740" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="8740" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[57, 57]</text>
+  <circle cx="8892" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="8892" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[58, 58]</text>
+  <circle cx="9044" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9044" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[59, 59]</text>
+  <circle cx="9196" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9196" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[60, 60]</text>
+  <circle cx="9348" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9348" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[61, 61]</text>
+  <circle cx="9500" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9500" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[62, 62]</text>
+  <circle cx="9652" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9652" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[63, 63]</text>
+  <circle cx="9804" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9804" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[64, 64]</text>
+  <circle cx="9956" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="9956" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[65, 65]</text>
+  <circle cx="10108" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="10108" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[66, 66]</text>
+  <circle cx="10260" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="10260" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[67, 67]</text>
+  <circle cx="10412" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="10412" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[68, 68]</text>
+  <circle cx="10564" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="10564" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[69, 69]</text>
+  <circle cx="10716" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="10716" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[70, 70]</text>
+  <circle cx="10868" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="10868" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[71, 71]</text>
+  <circle cx="11020" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11020" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[72, 72]</text>
+  <circle cx="11172" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11172" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[73, 73]</text>
+  <circle cx="11324" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11324" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[74, 74]</text>
+  <circle cx="11476" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11476" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[75, 75]</text>
+  <circle cx="11628" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11628" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[76, 76]</text>
+  <circle cx="11780" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11780" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[77, 77]</text>
+  <circle cx="11932" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="11932" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[78, 78]</text>
+  <circle cx="12084" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12084" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[79, 79]</text>
+  <circle cx="12236" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12236" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[80, 80]</text>
+  <circle cx="12388" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12388" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[81, 81]</text>
+  <circle cx="12540" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12540" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[82, 82]</text>
+  <circle cx="12692" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12692" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[83, 83]</text>
+  <circle cx="12844" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12844" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[84, 84]</text>
+  <circle cx="12996" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="12996" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[85, 85]</text>
+  <circle cx="13148" cy="76" r="38" fill="white" stroke="black" stroke-width="2"/>
+  <text x="13148" y="76" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[86, 86]</text>
+  <circle cx="228" cy="228" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="228" y="228" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 1]</text>
+  <circle cx="380" cy="380" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="380" y="380" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 2]</text>
+  <circle cx="532" cy="532" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="532" y="532" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 3]</text>
+  <circle cx="684" cy="684" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="684" y="684" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 4]</text>
+  <circle cx="836" cy="836" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="836" y="836" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 5]</text>
+  <circle cx="988" cy="988" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="988" y="988" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 6]</text>
+  <circle cx="1140" cy="1140" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="1140" y="1140" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 7]</text>
+  <circle cx="1292" cy="1292" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="1292" y="1292" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 8]</text>
+  <circle cx="1444" cy="1444" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="1444" y="1444" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 9]</text>
+  <circle cx="1596" cy="1596" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="1596" y="1596" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 10]</text>
+  <circle cx="1748" cy="1748" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="1748" y="1748" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 11]</text>
+  <circle cx="1900" cy="1900" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="1900" y="1900" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 12]</text>
+  <circle cx="2052" cy="2052" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2052" y="2052" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 13]</text>
+  <circle cx="2204" cy="2204" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2204" y="2204" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 14]</text>
+  <circle cx="2356" cy="2356" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2356" y="2356" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 15]</text>
+  <circle cx="2508" cy="2508" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2508" y="2508" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 16]</text>
+  <circle cx="2660" cy="2660" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2660" y="2660" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 17]</text>
+  <circle cx="2812" cy="2812" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2812" y="2812" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 18]</text>
+  <circle cx="2964" cy="2964" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="2964" y="2964" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 19]</text>
+  <circle cx="3116" cy="3116" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="3116" y="3116" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 20]</text>
+  <circle cx="3268" cy="3268" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="3268" y="3268" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 21]</text>
+  <circle cx="3420" cy="3420" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="3420" y="3420" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 22]</text>
+  <circle cx="3572" cy="3572" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="3572" y="3572" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 23]</text>
+  <circle cx="3724" cy="3724" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="3724" y="3724" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 24]</text>
+  <circle cx="3876" cy="3876" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="3876" y="3876" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 25]</text>
+  <circle cx="4028" cy="4028" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4028" y="4028" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 26]</text>
+  <circle cx="4180" cy="4180" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4180" y="4180" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 27]</text>
+  <circle cx="4332" cy="4332" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4332" y="4332" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 28]</text>
+  <circle cx="4484" cy="4484" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4484" y="4484" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 29]</text>
+  <circle cx="4636" cy="4636" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4636" y="4636" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 30]</text>
+  <circle cx="4788" cy="4788" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4788" y="4788" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 31]</text>
+  <circle cx="4940" cy="4940" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="4940" y="4940" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 32]</text>
+  <circle cx="5092" cy="5092" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="5092" y="5092" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 33]</text>
+  <circle cx="5244" cy="5244" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="5244" y="5244" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 34]</text>
+  <circle cx="5396" cy="5396" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="5396" y="5396" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 35]</text>
+  <circle cx="5548" cy="5548" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="5548" y="5548" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 36]</text>
+  <circle cx="5700" cy="5700" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="5700" y="5700" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 37]</text>
+  <circle cx="5852" cy="5852" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="5852" y="5852" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 38]</text>
+  <circle cx="6004" cy="6004" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6004" y="6004" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 39]</text>
+  <circle cx="6156" cy="6156" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6156" y="6156" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 40]</text>
+  <circle cx="6308" cy="6308" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6308" y="6308" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 41]</text>
+  <circle cx="6460" cy="6460" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6460" y="6460" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 42]</text>
+  <circle cx="6612" cy="6612" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6612" y="6612" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 43]</text>
+  <circle cx="6764" cy="6764" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6764" y="6764" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 44]</text>
+  <circle cx="6916" cy="6916" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="6916" y="6916" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 45]</text>
+  <circle cx="7068" cy="7068" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7068" y="7068" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 46]</text>
+  <circle cx="7220" cy="7220" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7220" y="7220" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 47]</text>
+  <circle cx="7372" cy="7372" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7372" y="7372" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 48]</text>
+  <circle cx="7524" cy="7524" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7524" y="7524" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 49]</text>
+  <circle cx="7676" cy="7676" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7676" y="7676" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 50]</text>
+  <circle cx="7828" cy="7828" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7828" y="7828" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 51]</text>
+  <circle cx="7980" cy="7980" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="7980" y="7980" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 52]</text>
+  <circle cx="8132" cy="8132" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="8132" y="8132" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 53]</text>
+  <circle cx="8284" cy="8284" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="8284" y="8284" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 54]</text>
+  <circle cx="8436" cy="8436" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="8436" y="8436" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 55]</text>
+  <circle cx="8588" cy="8588" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="8588" y="8588" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 56]</text>
+  <circle cx="8740" cy="8740" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="8740" y="8740" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 57]</text>
+  <circle cx="8892" cy="8892" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="8892" y="8892" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 58]</text>
+  <circle cx="9044" cy="9044" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9044" y="9044" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 59]</text>
+  <circle cx="9196" cy="9196" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9196" y="9196" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 60]</text>
+  <circle cx="9348" cy="9348" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9348" y="9348" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 61]</text>
+  <circle cx="9500" cy="9500" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9500" y="9500" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 62]</text>
+  <circle cx="9652" cy="9652" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9652" y="9652" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 63]</text>
+  <circle cx="9804" cy="9804" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9804" y="9804" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 64]</text>
+  <circle cx="9956" cy="9956" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="9956" y="9956" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 65]</text>
+  <circle cx="10108" cy="10108" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="10108" y="10108" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 66]</text>
+  <circle cx="10260" cy="10260" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="10260" y="10260" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 67]</text>
+  <circle cx="10412" cy="10412" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="10412" y="10412" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 68]</text>
+  <circle cx="10564" cy="10564" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="10564" y="10564" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 69]</text>
+  <circle cx="10716" cy="10716" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="10716" y="10716" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 70]</text>
+  <circle cx="10868" cy="10868" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="10868" y="10868" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 71]</text>
+  <circle cx="11020" cy="11020" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11020" y="11020" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 72]</text>
+  <circle cx="11172" cy="11172" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11172" y="11172" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 73]</text>
+  <circle cx="11324" cy="11324" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11324" y="11324" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 74]</text>
+  <circle cx="11476" cy="11476" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11476" y="11476" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 75]</text>
+  <circle cx="11628" cy="11628" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11628" y="11628" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 76]</text>
+  <circle cx="11780" cy="11780" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11780" y="11780" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 77]</text>
+  <circle cx="11932" cy="11932" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="11932" y="11932" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 78]</text>
+  <circle cx="12084" cy="12084" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12084" y="12084" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 79]</text>
+  <circle cx="12236" cy="12236" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12236" y="12236" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 80]</text>
+  <circle cx="12388" cy="12388" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12388" y="12388" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 81]</text>
+  <circle cx="12540" cy="12540" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12540" y="12540" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 82]</text>
+  <circle cx="12692" cy="12692" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12692" y="12692" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 83]</text>
+  <circle cx="12844" cy="12844" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12844" y="12844" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 84]</text>
+  <circle cx="12996" cy="12996" r="38" fill="black" stroke="black" stroke-width="2"/>
+  <text x="12996" y="12996" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[0, 85]</text>
+  <circle cx="13148" cy="13148" r="38" fill="silver" stroke="black" stroke-width="2"/>
+  <text x="13148" y="13148" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[0, 86]</text>
+</svg>

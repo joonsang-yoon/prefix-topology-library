@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="372" viewBox="0 0 372 372" font-family="sans-serif">
+  <path d="M 186 62 Q 217 155 310 186" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 310 62 Q 279 124 310 186" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 62 62 Q 93 155 186 186" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 186 62 Q 155 124 186 186" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 62 62 Q 124 248 310 310" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M 310 186 Q 279 248 310 310" fill="none" stroke="black" stroke-width="2"/>
+  <circle cx="62" cy="62" r="31" fill="white" stroke="black" stroke-width="2"/>
+  <text x="62" y="62" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[0, 0]</text>
+  <circle cx="186" cy="62" r="31" fill="white" stroke="black" stroke-width="2"/>
+  <text x="186" y="62" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[1, 1]</text>
+  <circle cx="310" cy="62" r="31" fill="white" stroke="black" stroke-width="2"/>
+  <text x="310" y="62" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[2, 2]</text>
+  <circle cx="310" cy="186" r="31" fill="black" stroke="black" stroke-width="2"/>
+  <text x="310" y="186" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="white">[1, 2]</text>
+  <circle cx="186" cy="186" r="31" fill="silver" stroke="black" stroke-width="2"/>
+  <text x="186" y="186" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[0, 1]</text>
+  <circle cx="310" cy="310" r="31" fill="silver" stroke="black" stroke-width="2"/>
+  <text x="310" y="310" text-anchor="middle" dominant-baseline="middle" font-size="12" fill="black">[0, 2]</text>
+</svg>
